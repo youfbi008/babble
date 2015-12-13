@@ -1,15 +1,15 @@
 en:
   js:
     babble:
-      placeholder: "type your chat message here..."
-      send: "Send"
-      title: "open a chat window for a quick conversation"
-      error_message: "Please enter a message!"
-      empty_topic_message: "No messages yet! Enter one below to get started."
-      topic_visibility_tooltip: "This chat is visible to: {{groupNames}}"
-      view_topics_tooltip: "View other chat channels"
-      view_chat_tooltip: "Back to the current chat"
-      select_topic: "Select another chat channel"
+      placeholder: "输入...或加入群130437989"
+      send: "发送"
+      title: "打开聊天窗口"
+      error_message: "请写点什么...!"
+      empty_topic_message: "还没有消息,请您开始这个话题."
+      topic_visibility_tooltip: "词话题对 {{groupNames}} 可见"
+      view_topics_tooltip: "查看其它话题"
+      view_chat_tooltip: "回到当前话题"
+      select_topic: "选择另一话题"
       admin:
         new: "New Channel"
         none_selected: "Select a channel to get started"
