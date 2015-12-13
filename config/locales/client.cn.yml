@@ -1,0 +1,25 @@
+cn:
+  js:
+    babble:
+      placeholder: "输入...或加入群130437989"
+      send: "发送"
+      title: "打开聊天窗口"
+      error_message: "请写点什么...!"
+      empty_topic_message: "还没有消息,请您开始这个话题."
+      topic_visibility_tooltip: "词话题对 {{groupNames}} 可见"
+      view_topics_tooltip: "查看其它话题"
+      view_chat_tooltip: "回到当前话题"
+      select_topic: "选择另一话题"
+      admin:
+        new: "New Channel"
+        none_selected: "Select a channel to get started"
+        title: "Channel Title"
+        allowed_groups: "Visible to:"
+        menu_title: "Chats"
+        page_title: "Chat Channels"
+        group: "Visible To"
+        post_count: "Posts"
+        last_post: "Last post"
+        delete_confirm: "Are you sure you want to delete this channel? All chat history will be lost."
+        delete_failed: "Unable to delete that chat channel. Please try again."
+        save_failed: "Unable to save that chat channel. Please try again."
